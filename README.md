@@ -7,5 +7,8 @@
 基于生产者消费者模式封装Redis  (缓存验证码并设置过期时间)  、  MySQL  (存储用户信息)  连接池；   
 
 程序设计中 ，使用了奇异递归模板、shared_from_this()、单例设计模式、心跳机制和分布式设计思想。
-![Uploading image.png…]()
+
+<img src="![image](https://github.com/user-attachments/assets/f4194196-ea01-45b5-9a5d-b63244f6fc5f)
+" alt="描述" width="300" height="200">
+
 
