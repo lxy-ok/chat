@@ -8,7 +8,8 @@
 
 程序设计中 ，使用了奇异递归模板、shared_from_this()、单例设计模式、心跳机制和分布式设计思想。
 
-![1](https://github.com/user-attachments/assets/ac6b9bd2-06d7-4aee-a3cc-03080f86a791)
+<img src="https://github.com/user-attachments/assets/ac6b9bd2-06d7-4aee-a3cc-03080f86a791" alt="描述" width="300" height="200">
+
 
 
 
